@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Inspire-24
-- 👀 I’m interested in Gaming,studying,helping others :)
 - 🌱 I’m currently learning js,python
 - 📫 How to reach me - @Inspire#4775
 - 
